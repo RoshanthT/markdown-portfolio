@@ -1,6 +1,6 @@
->Fishing
->Swimming
->Biking
->Soccer
->Volleyball
->Badminton
+- Fishing
+- Swimming
+- Biking
+- Soccer
+- Volleyball
+- Badminton
