@@ -1,0 +1,7 @@
+- **SQL**
+- **python**
+- *SPSS*
+- *Weka 3*
+- *SAS Enterprise Miner*
+- *Search Engine Optimization*
+- *Microsoft Word, Excel, Access, Powerpoint*
