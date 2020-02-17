@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **SQL**
+- **python**
+- *SPSS*
+- *Weka 3*
+- *SAS Enterprise Miner*
+- *Search Engine Optimization*
+- *Microsoft Word, Excel, Access, Powerpoint*
